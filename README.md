@@ -1,4 +1,4 @@
-# C++ Datastructures & Algoritms Exercises
+# C++ Datastructures & Algorithms Exercises
 
 This repository contains the exercises I used to refresh my datastructures and Algorithms knowledge with C++.
 
